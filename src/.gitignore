@@ -1,0 +1,44 @@
+
+# Created by .ignore support plugin (hsz.mobi)
+# maven ignore
+target/
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+.metadata/*
+Servers/*
+
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+.recommenders/
+oilunion-api/src/main/resources/rebel.xml
+oilunion-finance-server/src/main/resources/rebel.xml
+oilunion-organization-server/src/main/resources/rebel.xml
+oilunion-pc-web/src/main/resources/rebel.xml
+oilunion-platform-web/src/main/resources/rebel.xml
+oilunion-storage/src/main/resources/rebel.xml
+oilunion-utils/src/main/resources/rebel.xml
+oilunion-wechat-web/src/main/resources/rebel.xml
+rebel.xml
